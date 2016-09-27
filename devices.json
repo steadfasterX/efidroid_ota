@@ -1,5 +1,6 @@
 {
     "motorola/condor_umts": "motorola/condor",
+    "motorola/condor_umtsds": "motorola/condor",
     "motorola/thea": "motorola/thea",
 
     "xiaomi/aries": "xiaomi/aries",

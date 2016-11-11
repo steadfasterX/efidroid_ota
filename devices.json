@@ -1,4 +1,6 @@
 {
+    "fairphone/fp2": "fairphone/fp2",
+
     "motorola/condor_umts": "motorola/condor",
     "motorola/condor_umtsds": "motorola/condor",
     "motorola/thea": "motorola/thea",

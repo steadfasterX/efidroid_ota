@@ -3,6 +3,9 @@
 
     "motorola/condor_umts": "motorola/condor",
     "motorola/condor_umtsds": "motorola/condor",
+    "motorola/peregrine": "motorola/peregrine",
+    "motorola/peregrine_cdma": "motorola/peregrine",
+    "motorola/peregrine_umts": "motorola/peregrine",
     "motorola/thea": "motorola/thea",
     
     "oneplus/a0001": "oneplus/bacon",

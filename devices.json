@@ -7,7 +7,9 @@
     "motorola/peregrine_cdma": "motorola/peregrine",
     "motorola/peregrine_umts": "motorola/peregrine",
     "motorola/thea": "motorola/thea",
-    
+
+    "nokia/ara": "nokia/ara",
+
     "oneplus/a0001": "oneplus/bacon",
     "oneplus/bacon": "oneplus/bacon",
 

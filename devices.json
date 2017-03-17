@@ -18,6 +18,16 @@
     "pantech/ef63k": "pantech/ef63",
     "pantech/ef63l": "pantech/ef63",
 
+    "samsung/trlte": "samsung/trlte",
+    "samsung/trltecan": "samsung/trlte",
+    "samsung/trltedt": "samsung/trlte",
+    "samsung/trlteduoszh": "samsung/trlte",
+    "samsung/trltespr": "samsung/trlte",
+    "samsung/trltetmo": "samsung/trlte",
+    "samsung/trlteusc": "samsung/trlte",
+    "samsung/trltevzw": "samsung/trlte",
+    "samsung/trltexx": "samsung/trlte",
+
     "xiaomi/aries": "xiaomi/aries",
     "xiaomi/cancro": "xiaomi/cancro",
     "xiaomi/libra": "xiaomi/libra"
